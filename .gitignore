@@ -6,3 +6,5 @@ data/raw/
 *.pyc
 .env
 .vscode/
+/Ecommerce_Customer_360_Analytics.pbix
+/data/processed/geolocation_cleaned.csv
