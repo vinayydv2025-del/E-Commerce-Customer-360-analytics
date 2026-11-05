@@ -1,0 +1,16 @@
+table,column,new_invalid_values
+order_items,price,0
+order_items,freight_value,0
+payments,payment_sequential,0
+payments,payment_installments,0
+payments,payment_value,0
+reviews,review_score,0
+products,product_name_lenght,0
+products,product_description_lenght,0
+products,product_photos_qty,0
+products,product_weight_g,0
+products,product_length_cm,0
+products,product_height_cm,0
+products,product_width_cm,0
+geolocation,geolocation_lat,0
+geolocation,geolocation_lng,0

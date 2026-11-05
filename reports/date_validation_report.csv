@@ -1,0 +1,8 @@
+table,column,new_invalid_dates
+orders,order_purchase_timestamp,0
+orders,order_approved_at,0
+orders,order_delivered_carrier_date,0
+orders,order_delivered_customer_date,0
+orders,order_estimated_delivery_date,0
+reviews,review_creation_date,0
+reviews,review_answer_timestamp,0
